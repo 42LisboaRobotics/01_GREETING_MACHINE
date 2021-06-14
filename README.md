@@ -30,4 +30,6 @@ Coming soon **™**
 |Wiring|Money €|
 |Power delivery/source|Money €|
 
+### Research
+
 [LINK TO SPREADSHEET](https://docs.google.com/spreadsheets/d/18dQG1QeqEbwsyPYgIvcOHfFZCsI13GjzSqMwp9Vt0Kg/edit?usp=sharing)
