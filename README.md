@@ -32,4 +32,6 @@ Coming soon **™**
 
 ### Research
 
-[LINK TO SPREADSHEET](https://docs.google.com/spreadsheets/d/18dQG1QeqEbwsyPYgIvcOHfFZCsI13GjzSqMwp9Vt0Kg/edit?usp=sharing)
+>[LINK TO SPREADSHEET](https://docs.google.com/spreadsheets/d/18dQG1QeqEbwsyPYgIvcOHfFZCsI13GjzSqMwp9Vt0Kg/edit?usp=sharing)
+
+> HANDY TUTORIALS Coming soon **™**
