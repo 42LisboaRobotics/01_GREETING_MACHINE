@@ -1,14 +1,17 @@
 # 01_GREETING_MACHINE
 
-## Making a nice greeting machine for students entering or leaving the school!
+## Making a nice GREETING_MACHINE for students entering or leaving the school!
 
-## Description
+## Images
 
 Coming soon **™**
 
+<img src="images/Entry_screen.jpg" alt="drawing" width="200"/><img src="images/Screen_exit.jpg" alt="drawing" width="200"/>
+
+<img src="images/Entry_sensors_locations.jpg" alt="drawing" width="200" height="200"/><img src="images/Exit_sensor_locations.jpg" alt="drawing" width="200" height="200"/>
 ## Proof of concept
 
-- Little screen with moving images or funny messages
+- Little screen with moving images or funny messages that activate when someone comes or leaves!
 - Can start with just one screen
 - Expandable!
 
