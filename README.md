@@ -40,4 +40,7 @@ Coming soon **™**
 ### HANDY TUTORIALS Coming soon **™**
 >[ARDUINO TUTORIAL WITH LED](https://arduinogetstarted.com/tutorials/arduino-motion-sensor-led)
 
->[CHEAP STORE?!?!?! (free delivery from 50 euros)](https://www.electrofun.pt/)
+>[CHEAP STORE? (free delivery from 50 euros)](https://www.electrofun.pt/)
+Has a physical store in Gaia, Porto
+
+>[STORE IN LISBON: MAUSER](https://mauser.pt/catalog/lojas.php#lisboa)
